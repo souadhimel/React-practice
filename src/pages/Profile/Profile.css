@@ -1,0 +1,66 @@
+/* profile.style.css Code */
+.Container {
+    width: 75%;
+    height: 75%;
+    padding: 20px;
+    margin:  0 auto;
+    border: 2px solid #dc1b1b;
+  }
+  
+  .Bio {
+    margin-bottom: 30px;
+  }
+  
+  .Bio h3 {
+    font-size: 24px;
+    font-weight: 400;
+  }
+  .Bio p {
+    font-size: 17px;
+    color: #222222;
+    margin-top: 5px;
+  }
+  .Skills {
+    margin-bottom: 30px;
+  }
+  .Skills h3 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+  .Skills ul {
+    list-style-type: none;
+  }
+  .Skills ul li {
+    display: inline-block;
+    padding: 5px 15px;
+    margin-right: 20px;
+    background: #54d243;
+    border-radius: 5px;
+  }
+  .Links {
+    margin-bottom: 30px;
+  }
+  .Links h3 {
+    font-style: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+  .Links ul {
+    list-style-type: none;
+  }
+  .Links ul li {
+    display: inline-block;
+    padding: 5px 15px;
+    margin-right: 20px;
+  }
+  .Links ul li a {
+    color: #0c0109;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .Links ul li a:hover {
+    color: #ffa500;
+    border-top: 2px solid violet;
+    border-bottom-left-radius:2px solid rgb(124, 136, 10) ;
+  }
